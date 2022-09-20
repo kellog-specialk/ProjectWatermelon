@@ -49,7 +49,7 @@ Done
 Project is still maintained by Zachary Blumenfeld and Joycelyn Chow, and consequently may undergo minor changes. The goal and project itself, however, are completed.
 
 ## Additional information
-A write up of this project is available [here](https://gitlab.jhuapl.edu/zabacka1/ProjectWatermelon/-/blob/main/2022SummerASPIREProjDscrptn.docx)
+A write up of this project is available in the ProjectDescription.doc file.
 
 For any further questions or concerns, please reach out: 
 
